@@ -1,0 +1,19 @@
+body{
+    background: lightblue;
+}
+
+.pin{
+    display: inline-block;
+    background: lightslategray;
+    border: 2px solid darkslategray;
+    margin: 0 2px 15px;
+    padding: 15px 15px 15px;
+    min-width: 200px;
+}
+
+.pin img{
+    width: 100%;
+    border-bottom: 5px solid slategrey;
+    padding-bottom: 15px;
+    margin-bottom: 5px;
+}
